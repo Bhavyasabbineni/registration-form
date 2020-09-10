@@ -2,12 +2,6 @@
 
 I have created Registration Form using Reactjs of version 16.12.00.
 
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/ksuman-in/Registration-Form.git`
-
-```
-$ git clone https://github.com/ksuman-in/Registration-Form.git
 ```
 
 ### Setup
@@ -21,7 +15,7 @@ $ npm start
 
 ### Author
 
-**Suman Kumar**
+Bhavya
 
 for more details you can also view my portfolio
-[https://ksuman.in](https://ksuman.in)
+[https://bhavyasabbineni.github.io/portfolio/]
